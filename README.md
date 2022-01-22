@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nikita</h1>
-<h3 align="center">I'm a third year undergraduate , currently pursuing B.Tech  majoring in Information Technology .  I have done Frontend Web Development(HTML, CSS, JavaScript, ReactJS, Redux, Bootstrap) and familier with the firebase also currently I am exploring Backend using NodeJS , express & mongodb...</h3>
+<h4 align="center"><i>I'm a third year undergraduate , currently pursuing B.Tech  majoring in Information Technology .  I have done Frontend Web Development(HTML, CSS, JavaScript, ReactJS, Redux, Bootstrap) and familier with the firebase also currently I am exploring Backend using NodeJS , express & mongodb...</i></h4>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
