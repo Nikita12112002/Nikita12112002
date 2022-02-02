@@ -25,7 +25,7 @@
 
 - 🔭 Check out my React & Firebase Project **[Furniture Website](https://priceless-kepler-c7d455.netlify.app)**
 
-- 🔭 React Webpage **[Aspiro Internship Challenge](https://gracious-jepsen-40748e.netlify.app)**
+
 
 
 - 📫 How to reach me **guptanikita488@gmail.com**
