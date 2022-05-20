@@ -1,6 +1,5 @@
 <p align="center">
 <a href="#"><img width="35%" height="5%" src="https://straive-images.s3.us-east-2.amazonaws.com/Industry_5_GIF_5_3c0150f7c4.gif"/></a>
-
 </p>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nikita</h1>
