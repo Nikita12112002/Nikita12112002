@@ -2,9 +2,9 @@
 <a href="#"><img width="35%" height="5%" src="https://straive-images.s3.us-east-2.amazonaws.com/Industry_5_GIF_5_3c0150f7c4.gif"/></a>
 </p> -->
 
-<p align="center">
-<img width="80%"  style="margin:250px;" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif"/>
-</p>
+<div align="center">
+<img width="80%" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif"/>
+</div>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nikita</h1>
 <h4 align="center"><i>I'm a third year undergraduate , currently pursuing B.Tech  majoring in Information Technology .  I have done Frontend Web Development(HTML, CSS, JavaScript, ReactJS, Redux, Bootstrap) and familier with the firebase also currently I am exploring Backend using NodeJS , express & mongodb...</i></h4>
