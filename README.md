@@ -2,7 +2,7 @@
 <a href="#"><img width="35%" height="5%" src="https://straive-images.s3.us-east-2.amazonaws.com/Industry_5_GIF_5_3c0150f7c4.gif"/></a>
 </p> -->
 <span align="center">
-<a href="#"><img width="100%" height="2%" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif"/></a>
+<a href="#"><img width="35%" height="10%" src="https://miro.medium.com/max/1400/1*qdAW1TjCN57h1lbuuzvchg.gif"/></a>
 <span>
     
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nikita</h1>
