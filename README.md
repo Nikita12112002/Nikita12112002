@@ -4,7 +4,13 @@
 </h1>
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Nikita</h1>
-<h4 align="center"><i>I'm a final year undergraduate , currently pursuing B.Tech  majoring in Information Technology . I have done Frontend Web Development(HTML, CSS, JavaScript, ReactJS, Redux, Bootstrap) and familier with the firebase, also currently I am exploring Backend using NodeJS , express & mongodb and strengthening my Dsa part...</i></h4>
+<h4 align="center"><i>As a System Engineer and Validation Analyst at TCS, I specialize in ensuring quality and precision in complex systems. My professional journey has equipped me with robust expertise in Power BI, MongoDB, and Excel, which I leverage to deliver data-driven insights and solutions. Currently, I am expanding my skillset by exploring Python to deepen my analytical capabilities.
+
+With a strong foundation in testing and validation, I am now keen to transition into a Data Analyst role, where I can merge my technical skills with my passion for uncovering meaningful patterns and insights from data. My hands-on experience with tools like Power BI has honed my ability to create impactful dashboards and reports that drive decision-making.
+
+In addition to my technical skills, I pride myself on excellent communication abilities, enabling me to effectively collaborate with cross-functional teams and articulate complex ideas in a clear, concise manner.
+
+I am always eager to learn and grow in the ever-evolving field of data analytics. Let’s connect and explore opportunities to turn data into actionable insights!</i></h4>
 
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
@@ -17,17 +23,17 @@
 
 ## 🙋‍♂️ About Me
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 Exploring Python Libraries , Mongo DB and Tools like Power BI for analytical Dashboards.**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
-
+<h3>My Development Projects</h3>
 - 🔭 Check out my React Project **[WEATHER APP (dark mode)](https://keen-knuth-9c1966.netlify.app)**
 
 - 🔭 Check out my React & Firebase Project **[Furniture Website](https://priceless-kepler-c7d455.netlify.app)**
 
 
 
-
+- 📫 How to reach me **linkedin.com/in/nikita-gupta-321b3b1b9**
 - 📫 How to reach me **guptanikita488@gmail.com**
 
 <br/>
